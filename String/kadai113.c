@@ -1,0 +1,12 @@
+#include<stdio.h>
+main()
+{
+	int i;
+	char moji[8] = "GameSoft";
+	printf("%s", &moji[8]);
+	for (i = 0; moji[i] = '\0'; i++)
+	{
+		moji[i];
+	}
+	printf("\nï∂éöêî=%dï∂éö", i + 1);
+}

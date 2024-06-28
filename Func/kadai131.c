@@ -1,0 +1,11 @@
+#include<stdio.h>
+main()
+{
+	char a, cnt;
+	printf("ï∂éö(^z Ç≈èIóπ)ÅH");
+	cnt = scanf("%c", &a);
+	while (a != EOF)
+	{
+		
+	}
+}
